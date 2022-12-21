@@ -1,4 +1,5 @@
 import React from 'react';
+import exampleImg from '../assets/exampleimg.png'
 
 const Food = () => {
     return (
