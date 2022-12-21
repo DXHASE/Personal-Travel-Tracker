@@ -9,40 +9,52 @@ const Entertainment = () => {
             </div>
             <div className="flex-column justify-space-between p-3">
                 <section className="card">
-                    <h1 className="card-header">Some Fun Entertainment Events</h1>
+                    <h1 className="card-header">The San Antonio Riverwalk</h1>
                     <div className="card-body">
                         <meat className="container flex-row justify-space-between">
                             <img src={exampleImg} className="display-inline" style={{ width: "40%"}} alt="example"/>
-                            <p className="flex-row">Some info about said event</p>
+                            <p className="flex-row">The San Antonio River Walk is the heart of the city. As the #1 attraction in Texas, the River Walk is full of dining, shopping, and cultural experiences.</p>
                         </meat>
                     </div>
                 </section>
 
                 <section className="card">
-                    <h1 className="card-header">Some Fun Entertainment Events</h1>
+                    <h1 className="card-header">Six Flags Fiesta Texas</h1>
                     <div className="card-body">
-                    
+                    <meat className="container flex-row justify-space-between">
+                            <img src={exampleImg} className="display-inline" style={{ width: "40%"}} alt="example"/>
+                            <p className="flex-row">From roller coasters and water slides to animal experiences, festivals, food and games, Six Flags Fiesta Texas offers enjoyment for people all ages.</p>
+                        </meat>
                     </div>
                 </section>
 
                 <section className="card">
-                    <h1 className="card-header">Some Fun Entertainment Events</h1>
+                    <h1 className="card-header">Witte Museum</h1>
                     <div className="card-body">
-
+                    <meat className="container flex-row justify-space-between">
+                            <img src={exampleImg} className="display-inline" style={{ width: "40%"}} alt="example"/>
+                            <p className="flex-row">The Witte Museum is located between the ancient San Antonio River and historic Broadway, a bountiful riverside campus with large and open galleries, where Nature, Science and Culture meet through the lens of what we call Texas Deep Time and the themes of Land, Sky and Water.</p>
+                        </meat>
                     </div>
                 </section>
 
                 <section className="card">
-                    <h1 className="card-header">Some Fun Entertainment Events</h1>
+                    <h1 className="card-header">Historic Market Square</h1>
                     <div className="card-body">
-                    
+                    <meat className="container flex-row justify-space-between">
+                            <img src={exampleImg} className="display-inline" style={{ width: "40%"}} alt="example"/>
+                            <p className="flex-row">The Historic Market Square is where the culture of San Antonio comes alive. Nearly every weekend of the year, Market Square is filled with live entertainment, delicious food, and fun for the whole family; and talk about shopping... with unique multi-cultural merchandise you can find something for everyone.</p>
+                        </meat>
                     </div>
                 </section>
 
                 <section className="card">
-                    <h1 className="card-header">Some Fun Entertainment Events</h1>
+                    <h1 className="card-header">San Antonio Zoo</h1>
                     <div className="card-body">
-
+                    <meat className="container flex-row justify-space-between">
+                            <img src={exampleImg} className="display-inline" style={{ width: "40%"}} alt="example"/>
+                            <p className="flex-row">San Antonio Zoo is a 50+ acre zoo home to over 750 species, some of which are endangered or extinct in the wild, and an annual attendance of more than 1 million.</p>
+                        </meat>
                     </div>
                 </section>
             </div>
