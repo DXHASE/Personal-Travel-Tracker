@@ -1,70 +1,35 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  # Personal-Travel-Tracker
 
-## Available Scripts
 
-In the project directory, you can run:
+  ## Table of Contents
 
-### `npm start`
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Tests](#tests)
+  - [Contributors](#contributors)
+  - [Questions](#questions)
+  - [License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ## Description
+  - Our application is a trip planning app that will allow you to view the entertainment, food and sports activities that are available in a certain city. The application will allow you to sign in and save events for when you take your trip, as well as view other peoples thoughts about the city and what events they enjoyed in the reviews tab.  As a User, you will also be allowed to add your own review for once the trip you have taken is over.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  ## Installation
+  - The packages for this project includeExpress, Concurrently, Apollo-express-server, Bcrypt, Mongoose, Nodemon, and react-router-dom
 
-### `npm test`
+  ## Usage
+  - Our project will be used in order to de stress the process of trip planning, without all of the targeted ads, just genuine trip planning with the activities you choose!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  ## Tests
+  - npm run develop in the root directory
 
-### `npm run build`
+  ## Contributors
+  - Daniel Chase, Matt Marsch, Jake Snyder
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  ## Questions
+  - If you have any questions over the project, contact me at: danielchas886@gmail.com
+  - Github Link: https://github.com/DXHASE
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  ## License
+  - [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
