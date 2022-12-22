@@ -13,7 +13,7 @@ const Entertainment = () => {
             </div>
             <div className="flex-column justify-space-between p-3">
                 <section className="card">
-                    <h1 className="card-header">The San Antonio Riverwalk</h1>
+                    <h1 className="card-header"><a href="https://www.thesanantonioriverwalk.com/">The San Antonio Riverwalk</a></h1>
                     <div className="card-body">
                         <meat className="container flex-row justify-space-between">
                             <img src={riverwalk} className="display-inline" style={{ width: "40%"}} alt="riverwalk"/>
