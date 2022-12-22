@@ -23,7 +23,7 @@ const Entertainment = () => {
                 </section>
 
                 <section className="card">
-                    <h1 className="card-header">Six Flags Fiesta Texas</h1>
+                    <h1 className="card-header"><a href="https://www.sixflags.com/fiestatexas">Six Flags Fiesta Texas</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={fiestatexas} className="display-inline" style={{ width: "40%"}} alt="fiestatexas"/>
@@ -33,7 +33,7 @@ const Entertainment = () => {
                 </section>
 
                 <section className="card">
-                    <h1 className="card-header">Witte Museum</h1>
+                    <h1 className="card-header"><a href="https://www.wittemuseum.org/">Witte Museum</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={witte} className="display-inline" style={{ width: "40%"}} alt="witte"/>
@@ -43,7 +43,7 @@ const Entertainment = () => {
                 </section>
 
                 <section className="card">
-                    <h1 className="card-header">Historic Market Square</h1>
+                    <h1 className="card-header"><a href="https://www.marketsquaresa.com/">Historic Market Square</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={marketsquare} className="display-inline" style={{ width: "40%"}} alt="marketsquare"/>
@@ -53,7 +53,7 @@ const Entertainment = () => {
                 </section>
 
                 <section className="card">
-                    <h1 className="card-header">San Antonio Zoo</h1>
+                    <h1 className="card-header"><a href="https://sazoo.org/">San Antonio Zoo</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={zoo} className="display-inline" style={{ width: "40%"}} alt="zoo"/>
