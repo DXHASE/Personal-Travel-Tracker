@@ -14,7 +14,7 @@ const Sports = () => {
             </div>
             <div className="flex-column justify-space-between p-3">
                 <section className="card">
-                    <h1 className="card-header">San Antonio Spurs</h1>
+                    <h1 className="card-header"><a href="https://www.nba.com/spurs">San Antonio Spurs</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={spurs} className="display-inline" style={{ width: "40%"}} alt="spurs"/>
@@ -24,7 +24,7 @@ const Sports = () => {
                     </div>
                 </section>
                 <section className="card">
-                    <h1 className="card-header">San Antonio Missions</h1>
+                    <h1 className="card-header"><a href="https://www.milb.com/san-antonio">San Antonio Missions</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={missions} className="display-inline" style={{ width: "40%"}} alt="missions"/>
@@ -34,7 +34,7 @@ const Sports = () => {
                     </div>
                 </section>
                 <section className="card">
-                    <h1 className="card-header">San Antonio Football Club</h1>
+                    <h1 className="card-header"><a href="https://www.sanantoniofc.com/">San Antonio Football Club</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={safc} className="display-inline" style={{ width: "40%"}} alt="safc"/>
@@ -44,7 +44,7 @@ const Sports = () => {
                     </div>
                 </section>
                 <section className="card">
-                    <h1 className="card-header">UTSA</h1>
+                    <h1 className="card-header"><a href="https://goutsa.com/sports/football">UTSA Football</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={utsa} className="display-inline" style={{ width: "40%"}} alt="utsa"/>
@@ -54,7 +54,7 @@ const Sports = () => {
                     </div>
                 </section>
                 <section className="card">
-                    <h1 className="card-header">San Antonio Brahmas</h1>
+                    <h1 className="card-header"><a href="https://www.xfl.com/teams/san-antonio">San Antonio Brahmas</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={brahmas} className="display-inline" style={{ width: "40%"}} alt="brahmas"/>
