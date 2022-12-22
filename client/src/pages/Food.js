@@ -13,7 +13,7 @@ const Food = () => {
             </div>
             <div className="flex-column justify-space-between p-3">
                 <section className="card">
-                    <h1 className="card-header">The Pearl Brewery</h1>
+                    <h1 className="card-header"><a href="https://atpearl.com/">Pearl Brewery</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={pearl} className="display-inline" style={{ width: "40%"}} alt="pearl"/>
@@ -23,7 +23,7 @@ const Food = () => {
                     </div>
                 </section>
                 <section className="card">
-                    <h1 className="card-header">Mi Tierra</h1>
+                    <h1 className="card-header"><a href="https://www.mitierracafe.com/">Mi Tierra</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={mitierra} className="display-inline" style={{ width: "40%"}} alt="mitierra"/>
@@ -33,7 +33,7 @@ const Food = () => {
                     </div>
                 </section>
                 <section className="card">
-                    <h1 className="card-header">Dough Pizzaria Napoletana</h1>
+                    <h1 className="card-header"><a href="https://www.doughpizzeria.com/">Dough Pizzaria Napoletana</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={dough} className="display-inline" style={{ width: "40%"}} alt="dough"/>
@@ -43,7 +43,7 @@ const Food = () => {
                     </div>
                 </section>
                 <section className="card">
-                    <h1 className="card-header">Longhorn cafe</h1>
+                    <h1 className="card-header"><a href="https://www.thelonghorncafe.com/">Longhorn Cafe</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={longhorncafe} className="display-inline" style={{ width: "40%"}} alt="longhorncafe"/>
@@ -53,7 +53,7 @@ const Food = () => {
                     </div>
                 </section>
                 <section className="card">
-                    <h1 className="card-header">Bill Miller BBQ</h1>
+                    <h1 className="card-header"><a href="https://www.billmillerbbq.com/">Bill Miller BBQ</a></h1>
                     <div className="card-body">
                     <meat className="container flex-row justify-space-between">
                             <img src={billmiller} className="display-inline" style={{ width: "40%"}} alt="bill miller"/>
